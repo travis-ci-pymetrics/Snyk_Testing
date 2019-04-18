@@ -1,0 +1,6 @@
+-r ../requirements/base.txt
+-r ../requirements/conda.txt
+-r ../requirements/data_conda.txt
+-r ../requirements/data_pip.txt
+-r ../requirements/dev.txt
+-r ../requirements/test.txt
