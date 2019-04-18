@@ -4,3 +4,4 @@
 -r ../data_pip.txt
 -r ../dev.txt
 -r ../test.txt
+pysaml2==0.4.3
